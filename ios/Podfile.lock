@@ -1,0 +1,53 @@
+PODS:
+  - Flutter (1.0.0)
+  - MTBBarcodeScanner (5.0.11)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - qr_code_scanner_plus (0.2.6):
+    - Flutter
+    - MTBBarcodeScanner
+  - record_ios (1.2.0):
+    - Flutter
+  - upi_pay (1.0.0):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - qr_code_scanner_plus (from `.symlinks/plugins/qr_code_scanner_plus/ios`)
+  - record_ios (from `.symlinks/plugins/record_ios/ios`)
+  - upi_pay (from `.symlinks/plugins/upi_pay/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MTBBarcodeScanner
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  qr_code_scanner_plus:
+    :path: ".symlinks/plugins/qr_code_scanner_plus/ios"
+  record_ios:
+    :path: ".symlinks/plugins/record_ios/ios"
+  upi_pay:
+    :path: ".symlinks/plugins/upi_pay/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  permission_handler_apple: 4ed2196e43d0651e8ff7ca3483a069d469701f2d
+  qr_code_scanner_plus: 7e087021bc69873140e0754750eb87d867bed755
+  record_ios: 412daca2350b228e698fffcd08f1f94ceb1e3844
+  upi_pay: 1e9ab64ceb391afb02c96800260f55620003ce67
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+
+PODFILE CHECKSUM: f764706e1287052dcd1837b519693c74f1decbd7
+
+COCOAPODS: 1.16.2
